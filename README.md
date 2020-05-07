@@ -1,6 +1,6 @@
 # Java Spring Boot 2.2 Maven API RestFull back-end com Banco de Dados - Ordem de Servicos
 
--> Esse é um dos meus estilos preferidos de trabalhar ao ver esse projeto você estará olhando minha personalidade em JAVA, embora alguns projetos não necessite ou use algum ou outro framework
+-> Esse é um dos meus estilos preferidos de trabalhar ao ver esse projeto você estará olhando minha personalidade em JAVA, embora alguns projetos não necessite ou use algum ou outro framework não citados aqui
 
  # Implementações :
  
