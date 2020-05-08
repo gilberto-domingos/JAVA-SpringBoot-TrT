@@ -27,7 +27,7 @@
 
 -> This is one of my favorite working styles when you see this project you will be looking at my personality in JAVA, although some projects do not need or use some or other framework not mentioned here
 
-  # Implementations:
+  #  Implementations :
  
 - Data Persistence with Jakarta Persistence 2.2
 - Spring Data JPA
