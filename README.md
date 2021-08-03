@@ -17,7 +17,7 @@
 - Domain Model VS Representation Model
 - Model Mapper
 - Uso de Sub-recursos e ações não-CRUD na API
-- Técnicas e boas práticas
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@
 - Domain Model VS Representation Model
 - Model Mapper
 - Use of Sub-resources and non-CRUD actions in the API
-- Techniques and good practices
+
