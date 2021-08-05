@@ -2,7 +2,7 @@
 
 # Java Spring Boot 2.2 Maven API RestFull back-end com Banco de Dados 
 
--> API RestFull back-end completa com diversos tratamentos e implementações no SpringBoot
+-> API RestFull back-end alguns tratamentos e implementações no SpringBoot
 
  # Implementações :
  
@@ -25,7 +25,7 @@
 
 # Java Spring Boot 2.2 Maven API RestFull backend with Database
 
--> RestFul API backend complete with various treatments and implementations in SpringBoot
+-> RestFul API backend some treatments and implementations in SpringBoot
 
   #  Implementations :
  
