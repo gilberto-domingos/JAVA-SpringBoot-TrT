@@ -1,4 +1,4 @@
-Observação : nesse projeto não usei mas, hoje em dia eu uso bastante inferface para ganhar abstração, ser você ver outros projetos você vê que eu programo agora de maneira diferente, mas todo aprendimento é valido para evolução.
+Observação : nesse projeto não usei mas, hoje em dia eu uso bastante inferface para ganhar abstração, se você ver outros projetos meus mais novos, você percebe que eu programo agora de maneira diferente, mas todo aprendimento é valido e faz parte de evolução.
 
 
 # Ordem de Serviços 
