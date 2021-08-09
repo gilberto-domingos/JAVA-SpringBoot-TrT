@@ -1,13 +1,13 @@
-Observação : nesse projeto não usei mas, mas geralmente uso inferface para ganhar abstração.
+#Observação : nesse projeto não usei mas, mas geralmente uso inferface para ganhar abstração.
 
 
-# Ordem de Serviços 
+ Ordem de Serviços 
 
-# Java Spring Boot 2.2 Maven API RestFull back-end com Banco de Dados 
+ Java Spring Boot 2.2 Maven API RestFull back-end com Banco de Dados 
 
 -> API RestFull back-end alguns tratamentos e implementações no SpringBoot
 
- # Implementações :
+  Implementações :
  
 - Persistencia de Dados com Jakarta Persistence 2.2 
 - Spring Data JPA
@@ -24,13 +24,13 @@ Observação : nesse projeto não usei mas, mas geralmente uso inferface para ga
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-# Order of Services
+ Order of Services
 
-# Java Spring Boot 2.2 Maven API RestFull backend with Database
+ Java Spring Boot 2.2 Maven API RestFull backend with Database
 
 -> RestFul API backend some treatments and implementations in SpringBoot
 
-  #  Implementations :
+    Implementations :
  
 - Data Persistence with Jakarta Persistence 2.2
 - Spring Data JPA
