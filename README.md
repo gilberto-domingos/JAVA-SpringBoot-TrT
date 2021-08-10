@@ -2,7 +2,7 @@
 
 Observação : 
 
-Nesse projeto não usei mas, mas geralmente uso inferface para ganhar abstração.
+Nesse projeto não usei mas, mas geralmente uso inferface para ganhar mais abstração.
 
 --------------------------------------------------------------------------------- 
 
